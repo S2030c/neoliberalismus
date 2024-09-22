@@ -1,6 +1,6 @@
-\!\!\!-  
+---  
 title: Der Homo Oeconomicus und die Unmöglichkeit sozialräumlicher Orientierung  
-\!\!\!-  
+---
 Das Konzept des Homo Oeconomicus, des wirtschaftlich denkenden Menschen, hat die Wirtschaftswissenschaften und zunehmend auch andere Gesellschaftsbereiche geprägt. Diese Vorstellung vom Menschen als **rein rational handelndes Wesen**, das stets seine **eigenen Nutzen** maximiert, steht jedoch in einem fundamentalen Widerspruch zur Idee einer sozialräumlichen Orientierung.
 
 Der Homo Oeconomicus ist ein abstraktes Modell, das den Menschen auf seine **wirtschaftlichen Interessen** reduziert. 
