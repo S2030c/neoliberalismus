@@ -90,7 +90,7 @@ exclude:
   uses: richardrigutins/replace-in-files@v2
   with:
     files: '**/*.md'
-    search-text: '!!!-'
+    search-text: '\!\!\!-'
     replacement-text: '---'
     exclude: 'node_modules/**'
     encoding: 'utf8'
