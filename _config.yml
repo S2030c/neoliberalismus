@@ -86,12 +86,15 @@ exclude:
   - CNAME
 
 # Replace all the occurrences of '{0}' with '42' in the README.md file
-- name: Replace multiple files
-    uses: richardrigutins/replace-in-files@v2
-    with:
-      files: '**/*.md'
-      search-text: '\!\!\!-'
-      replacement-text: '---'
-      exclude: 'node_modules/**'
-      encoding: 'utf8'
-      max-parallelism: 10
+jobs:
+  my_first_job:
+    steps:
+      - name: Replace multiple files
+          uses: richardrigutins/replace-in-files@v2
+          with:
+            files: '**/*.md'
+            search-text: '\!\!\!-'
+            replacement-text: '---'
+            exclude: 'node_modules/**'
+            encoding: 'utf8'
+            max-parallelism: 10
