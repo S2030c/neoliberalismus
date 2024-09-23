@@ -1,5 +1,5 @@
 ---  
-title: Alternativen zum Neoliberalismus: Eine Suche nach neuen Wegen
+title: Alternativen zum Neoliberalismus – Eine Suche nach neuen Wegen
 ---
 Der neoliberale Kapitalismus, der die letzten Jahrzehnte dominiert hat, steht zunehmend in der Kritik. Die wachsende Ungleichheit, die Ausbeutung natürlicher Ressourcen und die Instabilität der Finanzmärkte werfen Fragen nach alternativen Wirtschafts- und Gesellschaftsmodellen auf.
 
