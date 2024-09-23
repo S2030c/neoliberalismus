@@ -1,5 +1,5 @@
 ---  
-title: Die Prekarisierung durch den Neoliberalismus: Ein tiefgreifender Wandel der Arbeitswelt
+title: Die Prekarisierung durch den Neoliberalismus – Ein tiefgreifender Wandel der Arbeitswelt
 ---
 Der Neoliberalismus, eine Ideologie, die den Markt als alleinige Lösung für gesellschaftliche Probleme preist, hat die Arbeitswelt in den letzten Jahrzehnten grundlegend verändert. 
 
