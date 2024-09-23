@@ -1,5 +1,5 @@
 ---
-title; Psychische Belastungen durch den Neoliberalismus
+title: Psychische Belastungen durch den Neoliberalismus
 ---
 Der Neoliberalismus hat **weitreichende Auswirkungen** auf unsere **Gesellschaft**. Neben den oft diskutierten ökonomischen und sozialen **Folgen** birgt er auch erhebliche **Risiken für unsere psychische Gesundheit**.
 
