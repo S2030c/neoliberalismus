@@ -1,5 +1,5 @@
 ---
-title: Auswirkungen des Neoliberalismus auf das grundlegende Vertrauen:
+title: Auswirkungen des Neoliberalismus auf das grundlegende Vertrauen
 ---
 Der Neoliberalismus, eine **Ideologie**, die den **Markt als alleinige Lösung** für gesellschaftliche Probleme preist, hat in den letzten Jahrzehnten **tiefgreifende Veränderungen in unserer Welt bewirk**t. Während er ökonomisches Wachstum verspricht, hinterlässt er oft einen **bitteren Beigeschmack**: ein zunehmendes **Misstrauen** zwischen Individuen, Gruppen und Institutionen.
 
