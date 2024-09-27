@@ -1,5 +1,5 @@
 ---
-title: Das Politische im Privaten: Die Folgen neoliberaler Privatisierung
+title: Das Politische im Privaten – Die Folgen neoliberaler Privatisierung
 ---
 Die **neoliberale Privatisierung**, ein charakteristisches Merkmal der letzten Jahrzehnte, hat tiefgreifende Veränderungen in unserer Gesellschaft bewirkt. Einst klare **Grenzen zwischen dem Öffentlichen und dem Privaten verschwimmen** zunehmend. Dieser Prozess führt dazu, dass das **Politische nicht mehr allein im öffentlichen Raum verortet ist, sondern sich auch in den individuellen Lebenswelten manifestiert**.
 
